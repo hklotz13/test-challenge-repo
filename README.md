@@ -1,2 +1,2 @@
-# hklotz13.github.io
-Contains 11 sketches created in Processing
+# Advanced-CSS-Challenge-2
+This is the repo for my portfolio site built for Module 2's challenge
